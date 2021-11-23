@@ -1,11 +1,16 @@
 _repo: An-Inquiry-into-the-Principles-of-Political-Oeconomy-Vol-2-of-2-Being-an-essay-on-the-science__66710
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 66710-h/images/cover.jpg
 creator:
   author:
     agent_name: Steuart, Sir James
     gutenberg_agent_id: '53927'
     url: http://www.gutenberg.org/2009/agents/53927
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66710#An-Inquiry-into-the-Principles-of-Political-Oeconomy-Vol-2-of-2-Being-an-essay-on-the-science_
 gutenberg_issued: '2021-11-11'
 identifiers:
   gutenberg: '66710'
